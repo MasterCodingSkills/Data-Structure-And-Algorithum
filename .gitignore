@@ -1,4 +1,5 @@
 .idea
 DataStructureAlgo.iml
 DataStructureAlgo.kotlin_module
+out
 *.class
